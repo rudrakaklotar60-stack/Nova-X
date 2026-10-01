@@ -1,0 +1,14 @@
+{
+  "zones": [
+    { "x": 20,  "y": 80,  "w": 30, "h": 30, "action": 1, "target": "SCR_PID_THR" },
+    { "x": 100, "y": 80,  "w": 30, "h": 30, "action": 2, "target": "SCR_PID_THR" },
+    { "x": 20,  "y": 150, "w": 30, "h": 30, "action": 3, "target": "SCR_PID_THR" },
+    { "x": 100, "y": 150, "w": 30, "h": 30, "action": 4, "target": "SCR_PID_THR" }
+  ],
+  "draws": [
+    { "id": "thr_min_bar", "type": "hbar", "x": 88, "y": 69,  "w": 30, "h": 20, "color": "YELLOW" },
+    { "id": "thr_min_val", "type": "text", "x": 88, "y": 110, "w": 80,  "h": 16, "color": "WHITE" },
+    { "id": "thr_max_bar", "type": "hbar", "x": 88, "y": 106, "w": 30, "h": 20, "color": "YELLOW" },
+    { "id": "thr_max_val", "type": "text", "x": 88, "y": 180, "w": 80,  "h": 16, "color": "WHITE" }
+  ]
+}

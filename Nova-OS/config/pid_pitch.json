@@ -1,0 +1,18 @@
+{
+  "zones": [
+    { "x": 30, "y": 60,  "w": 150, "h": 25, "action": 0, "target": "SCR_PID_ROLL" },
+    { "x": 30, "y": 100, "w": 150, "h": 25, "action": 0, "target": "SCR_PID_ROLL" },
+    { "x": 30, "y": 140, "w": 150, "h": 25, "action": 0, "target": "SCR_PID_ROLL" },
+    { "x": 60, "y": 190, "w": 60,  "h": 30, "action": 4, "target": "SCR_PID_ROLL" },
+    { "x": 200,"y": 190, "w": 60,  "h": 30, "action": 5, "target": "SCR_PID_ROLL" }
+  ],
+  "draws": [
+    { "id": "p_bar", "type": "hbar", "x": 60,  "y": 66,  "w": 150, "h": 20, "color": "YELLOW" },
+    { "id": "p_val", "type": "text", "x": 190, "y": 65,  "w": 60,  "h": 16, "color": "YELLOW" },
+    { "id": "i_bar", "type": "hbar", "x": 60,  "y": 105, "w": 150, "h": 20, "color": "RED" },
+    { "id": "i_val", "type": "text", "x": 190, "y": 105, "w": 60,  "h": 16, "color": "RED" },
+    { "id": "d_bar", "type": "hbar", "x": 60,  "y": 135, "w": 150, "h": 20, "color": "CYAN" },
+    { "id": "d_val", "type": "text", "x": 190, "y": 145, "w": 60,  "h": 16, "color": "CYAN" },
+    { "id": "pid_sel_label", "type": "text", "x": 130, "y": 220, "w": 40, "h": 24, "color": "WHITE" }
+  ]
+}

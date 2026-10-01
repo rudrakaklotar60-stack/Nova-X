@@ -1,0 +1,23 @@
+{
+  "zones": [
+    {
+      "x": 7,
+      "y": 7,
+      "w": 240,
+      "h": 30,
+      "target": "SCR_SETTINGS_MENU",
+      "action": 0
+    }
+  ],
+  "draws": [
+    {
+      "id": "element_1",
+      "type": "hbar",
+      "x": 0,
+      "y": 0,
+      "w": 0,
+      "h": 0,
+      "color": "GREEN"
+    }
+  ]
+}

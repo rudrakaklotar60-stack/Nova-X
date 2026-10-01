@@ -1,0 +1,16 @@
+{
+  "zones": [
+    {
+      "x": 7,
+      "y": 7,
+      "w": 295,
+      "h": 33,
+      "target": "SCR_SETTINGS_MENU",
+      "action": 0
+    }
+  ],
+   "draws": [
+    { "id": "bright_bar",  "type": "hbar", "x": 27,  "y": 110,  "w": 320, "h": 34, "color": "dynamic" },
+    { "id": "timeout_val", "type": "text", "x": 130, "y": 155, "w": 96,  "h": 16, "color": "WHITE" }
+  ]
+}

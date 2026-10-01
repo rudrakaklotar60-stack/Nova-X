@@ -1,0 +1,10 @@
+{
+  "zones": [
+    { "x": 80, "y": 195, "w": 160, "h": 35, "action": 1, "target": "SCR_CTRL_CALIBRATION" }
+  ],
+  "draws": [
+    { "id": "joy1_dot",   "type": "rect", "x": 46,  "y": 95, "w": 93, "h": 86, "color": "WHITE" },
+    { "id": "joy2_dot",   "type": "rect", "x": 203, "y": 95, "w": 93, "h": 86, "color": "WHITE" },
+    { "id": "cal_status", "type": "text", "x": 80,  "y": 175,"w": 160, "h": 16,  "color": "YELLOW" }
+  ]
+}

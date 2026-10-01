@@ -1,0 +1,12 @@
+{
+  "zones": [
+  { "x": 7, "y": 12, "w": 280, "h":30, "target":"SCR_HOME", "action":0
+  },
+    { "x": 30, "y": 66,  "w": 260, "h": 28, "target": "SCR_DISP_SETTINGS", "action": 0 },
+    { "x": 30, "y": 100,  "w": 260, "h": 28, "target": "SCR_CTRL_MENU",     "action": 0 },
+    { "x": 30, "y": 130, "w": 260, "h": 28, "target": "SCR_RADIO_SETTINGS","action": 0 },
+    { "x": 30, "y": 165, "w": 260, "h": 28, "target": "SCR_SOUND_INFO",    "action": 0 },
+    { "x": 30, "y": 194, "w": 260, "h": 28, "target": "SCR_PID_MENU",      "action": 0 }
+  ],
+  "draws": []
+}

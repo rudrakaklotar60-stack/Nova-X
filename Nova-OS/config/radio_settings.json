@@ -1,0 +1,19 @@
+{
+  "zones": [
+  {
+      "x": 7,
+      "y": 7,
+      "w": 280,
+      "h": 30,
+      "target": "SCR_SETTINGS_MENU",
+      "action": 0
+    },
+    { "x": 20,  "y": 80,  "w": 30, "h": 30, "action": 1, "target": "SCR_RADIO_SETTINGS" },
+    { "x": 270, "y": 80,  "w": 30, "h": 30, "action": 2, "target": "SCR_RADIO_SETTINGS" },
+    { "x": 100, "y": 140, "w": 120,"h": 30, "action": 3, "target": "SCR_RADIO_SETTINGS" }
+  ],
+  "draws": [
+    { "id": "radio_ch", "type": "text", "x": 182, "y": 85,  "w": 60, "h": 16, "color": "WHITE" },
+    { "id": "radio_pw", "type": "text", "x": 182, "y": 145, "w": 60, "h": 16, "color": "WHITE" }
+  ]
+}

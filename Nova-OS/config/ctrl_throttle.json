@@ -1,0 +1,9 @@
+{
+  "zones": [
+    { "x": 30,  "y": 100, "w": 80, "h": 50, "action": 1, "target": "SCR_CTRL_THROTTLE_CURVE" },
+    { "x": 130, "y": 100, "w": 80, "h": 50, "action": 2, "target": "SCR_CTRL_THROTTLE_CURVE" },
+    { "x": 230, "y": 100, "w": 80, "h": 50, "action": 3, "target": "SCR_CTRL_THROTTLE_CURVE" },
+    { "x": 110, "y": 190, "w": 100, "h": 30, "action": 4, "target": "SCR_CTRL_THROTTLE_CURVE" }
+  ],
+  "draws": []
+}

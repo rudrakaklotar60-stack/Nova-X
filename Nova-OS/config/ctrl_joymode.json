@@ -1,0 +1,10 @@
+{
+  "zones": [
+    { "x": 86,  "y": 174,  "w": 23, "h": 23, "action": 1, "target": "SCR_CTRL_JOY_MODE" },
+    { "x": 136, "y": 174,  "w": 23, "h": 23, "action": 2, "target": "SCR_CTRL_JOY_MODE" },
+    { "x": 186,  "y": 174, "w": 23, "h": 23, "action": 3, "target": "SCR_CTRL_JOY_MODE" },
+    { "x": 236, "y": 174, "w": 23, "h": 23, "action": 4, "target": "SCR_CTRL_JOY_MODE" },
+    { "x": 110, "y": 120, "w": 100, "h": 30, "action": 5, "target": "SCR_CTRL_JOY_MODE" }
+  ],
+  "draws": []
+}

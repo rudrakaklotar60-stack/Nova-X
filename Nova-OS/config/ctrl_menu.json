@@ -1,0 +1,39 @@
+{
+  "zones": [
+    {
+      "x": 7,
+      "y": 7,
+      "w": 240,
+      "h": 30,
+      "target": "SCR_SETTINGS_MENU",
+      "action": 0
+    },
+    {  "x": 25, "y": 65, "w": 260, "h": 28,
+      "target": "SCR_CTRL_JOY_MODE",
+      "action": 0
+    },
+    {  "x": 25, "y": 105, "w": 260, "h": 28,
+      "target": "SCR_CTRL_DEADZONE",
+      "action": 0
+    },
+    {  "x": 25, "y": 140, "w": 260, "h": 28,
+      "target": "SCR_CTRL_THROTTLE_CURVE",
+      "action": 0
+    },
+    {  "x": 25, "y": 175, "w": 260, "h": 28,
+      "target": "SCR_CTRL_CALIBRATION",
+      "action": 0
+    }
+  ],
+  "draws": [
+    {
+      "id": "element_1",
+      "type": "hbar",
+      "x": 0,
+      "y": 0,
+      "w": 0,
+      "h": 0,
+      "color": "GREEN"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "zones": [],
+  "draws": [
+    { "id": "home_battery",      "type": "hbar", "x": 190, "y": 193, "w": 64, "h": 25, "color": "dynamic" },
+    { "id": "home_battery_text", "type": "text", "x": 275, "y": 195, "w": 30, "h": 30, "color": "WHITE", "size": 2}
+  ]
+}
