@@ -19,7 +19,7 @@ NOVA is designed around a modular architecture consisting of:
 - Custom NOVA-X Remote OS
 - 2.4-inch 320×240 resistive touchscreen
 - Custom display/graphics system
-- External SPI Flash storage
+- SD card (in 1-bit) as external storage 
 
 
 FLIGHT CONTROL
